@@ -1,0 +1,17 @@
+/Users/john/Documents/Telcom City/Temp/bin/Debug/UnityEngine.dll
+/Users/john/Documents/Telcom City/Temp/bin/Debug/UnityEditor.dll
+/Users/john/Documents/Telcom City/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/john/Documents/Telcom City/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/john/Documents/Telcom City/Temp/bin/Debug/Mono.Cecil.dll
+/Users/john/Documents/Telcom City/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/john/Documents/Telcom City/Temp/bin/Debug/Unity.DataContract.dll
+/Users/john/Documents/Telcom City/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/john/Documents/Telcom City/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/john/Documents/Telcom City/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/john/Documents/Telcom City/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/john/Documents/Telcom City/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/john/Documents/Telcom City/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/john/Documents/Telcom City/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/john/Documents/Telcom City/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/john/Documents/Telcom City/obj/Debug/Assembly-CSharp.dll
+/Users/john/Documents/Telcom City/obj/Debug/Assembly-CSharp.dll.mdb
